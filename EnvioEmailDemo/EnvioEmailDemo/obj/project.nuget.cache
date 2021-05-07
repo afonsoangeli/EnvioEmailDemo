@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "MK2KnD+pxUIk1CAkzy0PaQtC9zH4XzWd/mFCzICdYLWuduYW7VS5WIU9/Uh6k5VbDWMV3gCoa/D0iObKDzYXDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pichau\\source\\repos\\EnvioEmailDemo\\EnvioEmailDemo\\EnvioEmailDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentemail.core\\3.0.0\\fluentemail.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\fluentemail.smtp\\3.0.0\\fluentemail.smtp.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Pichau\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
